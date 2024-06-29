@@ -1,0 +1,35 @@
+Standard template library
+container or algo 
+compilation of algo iterators func in minimized version for use
+
+cpp stl divided into  two parts
+
+algorithms
+containers
+functions
+iterators
+
+
+The C++ Standard Template Library (STL) was developed in 1994 by Alexander Stepanov and Meng Lee at Hewlett-Packard Lab as a proof-of-concept for generic programming. It was later adopted into C++98. 
+
+
+The C++ Standard Template Library (STL) is a collection of generic container classes and functions that provide common data structures and algorithms. It is an integral part of C++ and is widely used for its generic programming capabilities.
+The STL is used in a wide variety of applications, including:
+System/software development:
+The STL is used to implement many of the core components of operating systems, compilers, and other system software.
+Game development:
+The STL is used to implement game engines, physics engines, and other game development tools.
+Real-time simulation:
+The STL is used to implement real-time simulation systems, such as those used in flight simulators and medical simulators.
+Data science and machine learning:
+The STL is used to implement data structures and algorithms for data science and machine learning applications.
+Embedded systems:
+The STL is used to implement embedded systems, such as those used in cars, appliances, and other devices.
+In 2024, the STL is expected to continue to be widely used in a variety of applications. It is a powerful and versatile library that can be used to implement efficient and reliable software.
+Here are some specific examples of where the STL is used in 2024:
+The STL is used in the development of the Linux kernel, which is the core of the Linux operating system.
+The STL is used in the development of the Unreal Engine, which is a popular game engine used to develop games such as Fortnite and PUBG.
+The STL is used in the development of the V-REP simulator, which is a popular robotics simulator used in research and education.
+The STL is used in the development of the TensorFlow machine learning library, which is used by Google and other companies to develop machine learning models.
+The STL is used in the development of the Zephyr operating system, which is a popular operating system for embedded systems.
+These are just a few examples of where the STL is used in 2024. The STL is a powerful and versatile library that can be used to implement efficient and reliable software in a wide variety of applications.
